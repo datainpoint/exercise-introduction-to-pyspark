@@ -1,7 +1,7 @@
-# suggested-answer-advanced-pandas
+# suggested-answer-introduction-to-pyspark
 
-> Suggested answers for advanced pandas.
+> Suggested answers for introduction to pyspark.
 
 ## Topics
 
-- pandas
+- pyspark
